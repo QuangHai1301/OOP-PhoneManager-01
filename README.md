@@ -3,7 +3,7 @@
 
 ## 1 of 3
 
-##### Project description :
+### Project description :
 
 I used TreeSet<> (a collection of Java) to manage a list of Phones.
 
