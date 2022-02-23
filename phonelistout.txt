@@ -1,0 +1,4 @@
+Y20,Snapdragon 460,4 GB,16 MP,6.51 inches,3700000 VND,Purple,Vivo
+Reno 5,Snapdragon 720G,8 GB,64 MP,6.43 inches,8390000 VND,Grey,Oppo
+Galaxy Z Flip,Snapdragon 855+,8 GB,12 MP,6.7 inches,20990000 VND,White,Samsung
+Galaxy S20+,Exynos 990,8 GB,32 MP,6.7 inches,16000000 VND,Black,Samsung

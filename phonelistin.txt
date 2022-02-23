@@ -1,0 +1,6 @@
+Reno 5,Snapdragon 720G,8,64,6.43,8390000,Grey,Oppo
+Galaxy Z Flip,Snapdragon 855+,8,12,6.7,20990000,White,Samsung
+A5.4,Snapdragon 662,8,48,6.39,3500000,Blue,Nokia
+Galaxy S20+,Exynos 990,8,32,6.7,16000000,Black,Samsung
+Y20,Snapdragon 460,4,16,6.51,3700000,Purple,Vivo
+A15,Helio P35,4,32,6.52,3500000,Green,Oppo
